@@ -1,2 +1,12 @@
 # CompresorDecompressor
-The Compressor/Decompressor project is a versatile and efficient software solution designed to provide high-performance data compression and decompression capabilities. This project aims to empower users to reduce the size of their data while maintaining its integrity, as well as to efficiently restore compressed data to its original form.
+
+@author "Ramandeep Singh"
+
+Introduction
+Objective of this project is to reduce the number of bits needed to represent data through compression technique. This project will only use lossless conversion to ensure no data loss occurs during compression. Benefits of compression include saving storage space, speeding up file transfers, and reducing storage hardware and network bandwidth costs. Lossless compression is essential to ensure data is not lost while compressing. In this project, we will ensure that our compressed files can be restored to their original form.
+
+Tech Stack
+🔴 Java
+🔴 Swing
+🔴 AWT
+
